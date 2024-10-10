@@ -1,3 +1,7 @@
+# Tanstack Query practice:
+
+Simple project focused on practicing Tanstack Query capabilities with small conjunction with React Router
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
